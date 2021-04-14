@@ -2,7 +2,8 @@
 Bruteforce Passwordcracker
 
 Installation:
-_____________
+-------------
+
 Linux
 _____
 

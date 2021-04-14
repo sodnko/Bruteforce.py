@@ -5,7 +5,8 @@ Installation:
 _____________
 Linux
 _____
-_git clone https://github.com/sodnko/Bruteforce.py
+sudo apt update
+git clone https://github.com/sodnko/Bruteforce.py
 
 Run with
 _________

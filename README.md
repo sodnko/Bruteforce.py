@@ -1,8 +1,15 @@
 # Bruteforce.py
 Bruteforce Passwordcracker
 
+Installation:
+_____________
+Linux
+_____
+_git clone https://github.com/sodnko/Bruteforce.py
 
-Run with 
+Run with
+_________
+
 cd Bruteforce.py/
 " python3 Bruteforce#.py
 Enter a Password your choice

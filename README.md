@@ -2,7 +2,9 @@
 Bruteforce Passwordcracker
 
 
-run with " python3 Bruteforce2.py
+Run with 
+cd Bruteforce.py/
+" python3 Bruteforce2.py
 
 
 Aviable     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#!+-,._

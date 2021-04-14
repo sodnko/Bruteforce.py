@@ -13,7 +13,7 @@ git clone https://github.com/sodnko/Bruteforce.py
 _____________________
 
 Run with
-_________
+---------
 
 cd Bruteforce.py/
 

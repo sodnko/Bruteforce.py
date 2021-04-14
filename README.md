@@ -4,7 +4,7 @@ Bruteforce Passwordcracker
 
 Run with 
 cd Bruteforce.py/
-" python3 Bruteforce2.py
+" python3 Bruteforce#.py
 Enter a Password your choice
 
 Aviable     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#!+-,._

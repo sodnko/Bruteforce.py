@@ -22,7 +22,7 @@ python3 Bruteforce#.py
 __________________________________
 
 
-Enter a Password your choice
+Enter your Password: password your choice
 
 Aviable     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#!+-,._
 

@@ -5,14 +5,23 @@ Installation:
 _____________
 Linux
 _____
+
 sudo apt update
+
 git clone https://github.com/sodnko/Bruteforce.py
+
 
 Run with
 _________
 
 cd Bruteforce.py/
-" python3 Bruteforce#.py
+
+python3 Bruteforce#.py
+
+
+__________________________________
+
+
 Enter a Password your choice
 
 Aviable     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#!+-,._
